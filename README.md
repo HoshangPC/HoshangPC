@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working JS Projects.<br>🌱 I’m currently learning Python & ReactJS<br>⚡ Fun fact, You are a HERO, because you READ THIS!
 
+[![](https://visitcount.itsvg.in/api?id=HoshangPc&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hoshang.esmahil) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/hoshang) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HoshangDev) 
@@ -21,10 +22,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HoshangPc&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=HoshangPc&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
