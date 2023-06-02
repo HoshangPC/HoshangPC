@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working JS Projects.<br>🌱 I’m currently learning Python & ReactJS<br>⚡ Fun fact, You are a HERO, because you READ THIS!
+🔭 I’m currently working JS Projects.<br>🌱 I’m currently learning Python & ReactJS<br>⚡ Fun fact, You are a HERO, because you READ THIS! seriously y u came here?
 
 [![](https://visitcount.itsvg.in/api?id=HoshangPc&icon=5&color=1)](https://visitcount.itsvg.in)
 
